@@ -1,0 +1,43 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nyt/global/}
+    \entry{vcaa2015}{misc}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,hash=b6d9c98c39c24619f44ad7e9b52ae7dd}{%
+           family={VCAA},
+           family_i={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6d9c98c39c24619f44ad7e9b52ae7dd}
+      \strng{fullhash}{b6d9c98c39c24619f44ad7e9b52ae7dd}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{NAPLAN results for years 3, 5, 7, and 9, 2009 to 2015. Victorian Curriculum and Assessment Authority}
+      \field{title}{Deidentified linked student-level NAPLAN data, 2009 year 3 cohort}
+      \field{year}{2015}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
